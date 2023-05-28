@@ -1,7 +1,8 @@
-||pharmknow.com^
-||pharmacistplus.com^
 ||easyatm.com.tw^
-||newton.com.tw^
-||itsfun.com.tw^
-||imobile01.com^
 ||getit01.com^
+||imobile01.com^
+||itsfun.com.tw^
+||newton.com.tw^
+||pharmacistplus.com^
+||pharmknow.com^
+||pttnews.cc^
